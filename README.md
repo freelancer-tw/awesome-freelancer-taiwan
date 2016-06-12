@@ -30,6 +30,8 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [freelancer](https://www.freelancer.com/)
 
 ## Accelerator
+*加速器*
+* [AppWorks 之初創投](http://appworks.tw/)
 
 ## Funding
 
