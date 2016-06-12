@@ -18,9 +18,11 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [freecodecamp](https://www.freecodecamp.com/) - 號稱學成後直接去應徵 frontend 工程師
 
 ## Case TW
-* 
+*台灣提供 Case 的地方*
+* [104](http://case.104.com.tw/)
+* [518](http://case.518.com.tw/)
 
 ## Case INTL
-
+*國外接 Case 的地方*
 
 
