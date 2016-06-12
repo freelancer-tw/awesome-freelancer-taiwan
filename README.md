@@ -36,7 +36,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Accelerator
 *加速器*
-* [AppWorks 之初創投](http://appworks.tw/)
+* [AppWorks 之初創投](http://appworks.tw/) - 由網路紅人 林之晨 創辦
 
 ## Funding
 
