@@ -8,6 +8,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Case 找Case](#case)
    - [台灣](#case-tw)
    - [國外](#case-intl)
+- [Jobs 找工作](#jobs)
 - [Accelerator 加速器 0-1](#accelerator)
 - [Funding 資金那裡找 1-100](#funding)
 - [Crowdfunding 集資/群眾募資](#crowdfunding)
@@ -28,6 +29,10 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 ## Case INTL
 *國外接 Case 的地方*
 * [freelancer](https://www.freelancer.com/)
+
+## Jobs
+*找工作
+* [Frontend jobs board](https://github.com/f2etw/jobs)
 
 ## Accelerator
 *加速器*
