@@ -8,6 +8,9 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Case 找Case](#case)
    - [台灣](#case-tw)
    - [國外](#case-intl)
+- [Accelerator 加速器 0-1](#accelerator)
+- [Funding 資金那裡找 1-100](#funding)
+- [Crowdfunding 集資/群眾募資](#crowdfunding)
 
 ## Coworking
 *共同工作空間*
@@ -26,3 +29,8 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 *國外接 Case 的地方*
 * [freelancer](https://www.freelancer.com/)
 
+## Accelerator
+
+## Funding
+
+## Crowdfunding
