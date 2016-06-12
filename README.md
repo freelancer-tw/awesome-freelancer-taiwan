@@ -5,6 +5,9 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 ## Table of Contents
 - [Coworking 共同工作空間](#coworking)
 - [Learning 免費學習coding的地方](#learning)
+- [Case 找Case](#case)
+   - [台灣](#case-tw)
+   - [國外](#case-intl)
 
 ## Coworking
 *共同工作空間*
@@ -13,3 +16,11 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Learning
 * [freecodecamp](https://www.freecodecamp.com/) - 號稱學成後直接去應徵 frontend 工程師
+
+## Case TW
+* 
+
+## Case INTL
+
+
+
