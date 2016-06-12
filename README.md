@@ -31,7 +31,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [freelancer](https://www.freelancer.com/)
 
 ## Jobs
-*找工作
+*找工作*
 * [Frontend jobs board](https://github.com/f2etw/jobs)
 
 ## Accelerator
