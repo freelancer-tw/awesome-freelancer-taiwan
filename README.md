@@ -33,7 +33,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Jobs
 *找工作*
-* [Frontend jobs board](https://github.com/f2etw/jobs)
+* [Taiwan Awesome Job Boards](https://github.com/freelancer-tw/awesome-job-boards-taiwan)
 
 ## Accelerator
 *加速器*
@@ -46,4 +46,6 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [創夢市集](https://www.ditfunding.com) - 是由五家遊戲公司樂陞、遊戲橘子、華義、昱泉、網銀國際共同出資的新創公司,希望集結台灣遊戲、行動應用、文化創意產業的創業能量，透過「創業育成」、「群眾募資」與「創業投資」等三大服務，提供全方位的發展規劃，支持新創產業
 
 ## Contract
+*合約範例*
 * [freelance-contract 英文合約範例](https://github.com/ashedryden/freelance-contract/blob/master/README.md)
+
