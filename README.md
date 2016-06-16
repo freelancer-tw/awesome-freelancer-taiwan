@@ -4,6 +4,7 @@
 [![Join the chat at https://gitter.im/freelancer-tw/awesome-freelancer-taiwan](https://badges.gitter.im/freelancer-tw/awesome-freelancer-taiwan.svg)](https://gitter.im/freelancer-tw/awesome-freelancer-taiwan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A curated list of amazingly awesome freelancer resources and shiny things.
+這是一個提供所有 Freelancer 分享資源的地方，歡迎發 pull requests or issues 皆可以。
 
 ## Table of Contents
 - [Coworking 共同工作空間](#coworking)
