@@ -13,6 +13,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Funding 資金那裡找 1-100](#funding)
 - [Crowdfunding 集資/群眾募資](#crowdfunding)
 - [Contract 合約範例](contract)
+- [Tools 自由工作者常用工具分享](#tools)
 
 ## Coworking
 *共同工作空間*
@@ -49,3 +50,5 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 *合約範例*
 * [freelance-contract 英文合約範例](https://github.com/ashedryden/freelance-contract/blob/master/README.md)
 
+## Toools
+* [洋蔥路由器](https://zh.wikipedia.org/wiki/Tor) - 保護自由工作者在網咖工作，也能安安全全的。
