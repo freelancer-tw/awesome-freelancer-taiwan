@@ -22,6 +22,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Learning
 * [freecodecamp](https://www.freecodecamp.com/) - 號稱學成後直接去應徵 frontend 工程師
+   * [Freecodecamp 台灣分部](https://www.facebook.com/groups/free.code.camp.taipei/) 
 
 ## Case TW
 *台灣提供 Case 的地方*
