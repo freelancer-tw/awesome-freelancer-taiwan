@@ -17,6 +17,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Crowdfunding 集資/群眾募資](#crowdfunding)
 - [Contract 合約範例](contract)
 - [Tools 自由工作者常用工具分享](#tools)
+- [Articles 好文章分享](#articles)
 
 ## Coworking
 *共同工作空間*
@@ -57,3 +58,6 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Tools
 * [洋蔥路由器](https://zh.wikipedia.org/wiki/Tor) - 保護自由工作者在網咖工作，也能安安全全的。
+
+## Articles
+* [十個超中肯建議](http://animapp.tw/blog/insight/topic/1686-10-tips-for-surviving-as-a-freelance-artist.html)
