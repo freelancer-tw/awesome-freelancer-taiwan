@@ -1,5 +1,7 @@
 # Awesome Freelancer for Taiwan [![Build Status](https://api.travis-ci.org/freelancer-tw/awesome-freelancer-taiwan.svg?branch=master)](https://travis-ci.org/freelancer-tw/awesome-freelancer-taiwan)
 
+[![Join the chat at https://gitter.im/freelancer-tw/awesome-freelancer-taiwan](https://badges.gitter.im/freelancer-tw/awesome-freelancer-taiwan.svg)](https://gitter.im/freelancer-tw/awesome-freelancer-taiwan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Table of Contents
