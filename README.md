@@ -35,6 +35,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 ## Case INTL
 *國外接 Case 的地方*
 * [freelancer](https://www.freelancer.com/)
+* [Upwork](https://www.upwork.com/)
 
 ## Jobs
 *找工作*
