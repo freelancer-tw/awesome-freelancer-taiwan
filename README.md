@@ -23,7 +23,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 ## Coworking
 *共同工作空間*
 * [台灣 Top 10 共同工作空間懶人包](https://buzzorange.com/techorange/2015/06/08/foreignmedia-tw10cowsoace-harryhsu/) - 苦哈哈新創夢想都在這孵化
-* [趣工作](http://www.keepworkingtaipei.com/)
+* [趣工作](http://www.keepworkingtaipei.com/)-每天$300
 
 ## Learning
 * [freecodecamp](https://www.freecodecamp.com/) - 號稱學成後直接去應徵 frontend 工程師
