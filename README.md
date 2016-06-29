@@ -49,6 +49,8 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [AppWorks 之初創投](http://appworks.tw/) - 由網路紅人 林之晨 創辦
 
 ## Funding
+* [TMI台灣創意工場](http://tmi.vc/team)
+   * [台灣創意工場相關新聞](http://www.bnext.com.tw/article/view/id/28293) 
 
 ## Crowdfunding
 *群眾募資*
