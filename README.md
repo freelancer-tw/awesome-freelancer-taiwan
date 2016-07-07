@@ -36,7 +36,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 *台灣提供 Case 的地方*
 * [104](http://case.104.com.tw/)
 * [518](http://case.518.com.tw/)
-* [獎金獵人](https://bhuntr.com)
+* [獎金獵人](https://bhuntr.com/tw)
 
 ## Case INTL
 *國外接 Case 的地方*
