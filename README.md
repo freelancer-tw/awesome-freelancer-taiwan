@@ -25,7 +25,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 *共同工作空間*
 * [台灣 Top 10 共同工作空間懶人包](https://buzzorange.com/techorange/2015/06/08/foreignmedia-tw10cowsoace-harryhsu/) - 苦哈哈新創夢想都在這孵化
 * [趣工作](http://www.keepworkingtaipei.com/)-每天$300
-* [創業台北/共同空間列表](http://www.startup.taipei/archives/place_type/space)
+* [創業台北/共同空間列表](https://www.startup.taipei/archives/place_type/space)
 * [新創商務中心](https://www.facebook.com/startupsTWn/services)-忠孝東路
 
 ## Learning
