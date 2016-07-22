@@ -27,6 +27,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [趣工作](http://www.keepworkingtaipei.com/)-每天$300
 * [創業台北/共同空間列表](https://www.startup.taipei/archives/place_type/space)
 * [新創商務中心](https://www.facebook.com/startupsTWn/services)-忠孝東路
+* [Pickone挑場地](http://www.pickoneplace.com/)-找會議室，辦活動的好工具。
 
 ## Learning
 * [freecodecamp](https://www.freecodecamp.com/) - 號稱學成後直接去應徵 frontend 工程師
