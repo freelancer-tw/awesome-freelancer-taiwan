@@ -45,6 +45,11 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [freelancer](https://www.freelancer.com/)
 * [Upwork](https://www.upwork.com/)
 * [simplyhired](http://www.simplyhired.com/)
+* Designer
+   * [99designs](https://99designs.com/)
+* Writter
+   * [freelancewritinggigs](http://www.freelancewritinggigs.com/) 
+
 
 ## Jobs
 *找工作*
