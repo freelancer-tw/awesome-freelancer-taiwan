@@ -12,7 +12,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Learning 免費學習coding的地方](#learning)
 - [Case 找Case](#case)
    - [台灣](#case-tw)
-   - [國外](#case-intl)
+   - [國外](#case-international)
 - [Jobs 找工作](#jobs)
 - [Accelerator 加速器 0-1](#accelerator)
 - [Funding 資金那裡找 1-100](#funding)
@@ -40,7 +40,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [518](http://case.518.com.tw/)
 * [獎金獵人](https://bhuntr.com/tw)
 
-## Case INTL
+## Case International
 *國外接 Case 的地方*
 * [freelancer](https://www.freelancer.com/)
 * [Upwork](https://www.upwork.com/)
