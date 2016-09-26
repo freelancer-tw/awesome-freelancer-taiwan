@@ -10,7 +10,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 ## Table of Contents
 - [Coworking 共同工作空間](#coworking)
 - [Learning 免費學習coding的地方](#learning)
-- [Case 找Case](#case)
+- [Case 找Case](#case-tw)
    - [台灣](#case-tw)
    - [國外](#case-international)
 - [Sell your service 販售你的勞務](#sell-services) 
@@ -43,8 +43,9 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Case International
 *國外接 Case 的地方*
-* [freelancer](https://www.freelancer.com/)
+* [Freelancer](https://www.freelancer.com/)
 * [Upwork](https://www.upwork.com/)
+* [Dubaiexpolive](http://www.dubaiexpolive.com/) - online portal for jobs and news
 * [simplyhired](http://www.simplyhired.com/)
 * Designer
    * [99designs](https://99designs.com/)
