@@ -53,6 +53,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
    * [freelancewritinggigs](http://www.freelancewritinggigs.com/) 
 
 ## Sell services
+販售你的勞務 / 產品 / 創意 (Idea)
 * [Envato studio](https://studio.envato.com)
 
 ## Jobs
@@ -61,7 +62,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Accelerator
 *加速器*
-* [AppWorks 之初創投](http://appworks.tw/) - 由網路紅人 林之晨 創辦
+* [AppWorks 之初創投](https://appworks.tw/) - 由網路紅人 林之晨 創辦
 * [H.Spectrum](https://www.facebook.com/ylhspectrum/) - 由郭台銘領導的生醫界創業加速器
 
 ## Funding
