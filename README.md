@@ -45,7 +45,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 *國外接 Case 的地方*
 * [Freelancer](https://www.freelancer.com/)
 * [Upwork](https://www.upwork.com/)
-* [Dubaiexpolive](http://www.dubaiexpolive.com/) - online portal for jobs and news
+* [Dubaiexpolive](http://www.dubaiexpolive.com/) - 尋找 part-time jobs / online portal for jobs and news
 * [simplyhired](http://www.simplyhired.com/)
 * Designer
    * [99designs](https://99designs.com/)
