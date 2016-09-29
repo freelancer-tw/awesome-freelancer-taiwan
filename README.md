@@ -21,6 +21,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Contract 合約範例](contract)
 - [Tools 自由工作者常用工具分享](#tools)
 - [Articles 好文章分享](#articles)
+- [Create New Company 開新公司](#how-to-create-new-company)
 
 ## Coworking
 *共同工作空間*
@@ -82,3 +83,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Articles
 * [十個超中肯建議](http://animapp.tw/blog/insight/topic/1686-10-tips-for-surviving-as-a-freelance-artist.html)
+
+## How to create new company
+如何設立公司行號
+* [創業的第零步：公司設立](http://www.inside.com.tw/2016/09/27/starting-up-your-business-first-step)
