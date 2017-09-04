@@ -33,13 +33,13 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [Pickone挑場地](http://www.pickoneplace.com/)-找會議室，辦活動的好工具。
 
 ## Learning
-* [freecodecamp](https://www.freecodecamp.com/) - 號稱學成後直接去應徵 frontend 工程師
+* [freecodecamp](https://www.freecodecamp.org/) - 號稱學成後直接去應徵 frontend 工程師
    * [Freecodecamp 台灣分部](https://www.facebook.com/groups/free.code.camp.taipei/) 
 
 ## Case TW
 *台灣提供 Case 的地方*
 * [104](http://case.104.com.tw/)
-* [518](http://case.518.com.tw/)
+* [518](https://case.518.com.tw/)
 * [獎金獵人](https://bhuntr.com/tw)
 
 ## Case International
@@ -69,7 +69,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Funding
 * [TMI台灣創意工場](http://tmi.vc/team)
-   * [台灣創意工場相關新聞](http://www.bnext.com.tw/article/view/id/28293) 
+   * [台灣創意工場相關新聞](https://www.bnext.com.tw/article/view/id/28293) 
 
 ## Crowdfunding
 *群眾募資*
