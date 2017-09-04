@@ -69,7 +69,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Funding
 * [TMI台灣創意工場](http://tmi.vc/team)
-   * [台灣創意工場相關新聞](https://www.bnext.com.tw/article/view/id/28293) 
+   * [台灣創意工場相關新聞](https://www.bnext.com.tw/article/28293/BN-ARTICLE-28293) 
 
 ## Crowdfunding
 *群眾募資*
@@ -87,4 +87,4 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## How to create new company
 如何設立公司行號
-* [創業的第零步：公司設立](http://www.inside.com.tw/2016/09/27/starting-up-your-business-first-step)
+* [創業的第零步：公司設立](https://www.inside.com.tw/2016/09/27/starting-up-your-business-first-step)
