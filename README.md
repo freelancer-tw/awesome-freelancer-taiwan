@@ -18,7 +18,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 - [Accelerator 加速器 0-1](#accelerator)
 - [Funding 資金那裡找 1-100](#funding)
 - [Crowdfunding 集資/群眾募資](#crowdfunding)
-- [Contract 合約範例](contract)
+- [Contract 合約範例](#contract)
 - [Tools 自由工作者常用工具分享](#tools)
 - [Articles 好文章分享](#articles)
 - [Create New Company 開新公司](#how-to-create-new-company)
