@@ -85,6 +85,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 
 ## Articles
 * [十個超中肯建議](http://animapp.tw/blog/insight/topic/1686-10-tips-for-surviving-as-a-freelance-artist.html)
+* https://github.com/cassidoo/getting-a-gig
 
 ## How to create new company
 如何設立公司行號
