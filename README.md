@@ -79,6 +79,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 ## Contract
 *合約範例*
 * [freelance-contract 英文合約範例](https://github.com/ashedryden/freelance-contract/blob/master/README.md)
+* https://legaltemplates.net/
 
 ## Tools
 * [洋蔥路由器](https://zh.wikipedia.org/wiki/Tor) - 保護自由工作者在網咖工作，也能安安全全的。
