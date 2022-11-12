@@ -64,6 +64,7 @@ A curated list of amazingly awesome freelancer resources and shiny things.
 * [Taiwan Awesome Job Boards](https://github.com/freelancer-tw/awesome-job-boards-taiwan)
 ### Remote Job
    * https://github.com/levelsio/awesome-remote-job/
+   * https://github.com/lukasz-madon/awesome-remote-job
 
 
 ## Accelerator
